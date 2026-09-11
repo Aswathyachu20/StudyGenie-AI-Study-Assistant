@@ -67,7 +67,7 @@ st.write(
 # LANGFLOW CONFIGURATION
 # ============================================================
 
-API_KEY = "sk-lzFfcbgfXLp9LoqmqDlGV2xsFgpgoVk5sqztFmbf6SI"
+API_KEY = "YOUR_LANGFLOW_API_KEY"
 
 BASE_URL = "http://localhost:7860"
 
