@@ -11,7 +11,7 @@ The system uses **RAG (Retrieval-Augmented Generation)** to retrieve relevant in
 * 📝 Generate structured summaries
 * ❓ Generate MCQs and quizzes
 * 🗂️ Generate flashcards
-* 📅 Generate personalized  study plans
+* 📅 Generate personalized 7-day study plans
 
 ## 🛠️ Technologies Used
 
@@ -25,7 +25,7 @@ The system uses **RAG (Retrieval-Augmented Generation)** to retrieve relevant in
 
 ## 🏗️ System Architecture
 
-
+```text
 Student
    ↓
 Streamlit
@@ -41,6 +41,7 @@ StudyGenie Agent
 Google Gemini
    ↓
 Response to Student
+```
 
 ## 🎯 Objective
 
